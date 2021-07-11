@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyMovieCatalogue</string>
+    <string name="title_activity_detail_movie">Detail Movie</string>
+    <string name="title_activity_detail_t_v_show">Detail TV Show</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="description_course">Deskripsi</string>
+    <string name="example">Example</string>
+    <string name="movie">Movie</string>
+    <string name="tvshow">TVShow</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="last_seen">Terakhir dilihat</string>
+    <string name="message_undo">Batalkan menghapus item sebelumnya?</string>
+    <string name="message_ok">OK</string>
+    <string name="share_text">Ayo tonton %s yang sangat seru!</string>
+    <string name="genre">Genre : </string>
+    <string name="caption">caption</string>
+    <string name="tahun">Tahun</string>
+    <string name="tonton_sekarang">TONTON SEKARANG</string>
+</resources>
